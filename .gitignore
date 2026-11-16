@@ -1,0 +1,8 @@
+/.venv/
+/runs/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+/.streamlit/secrets.toml
+/old_version_openrouter/
